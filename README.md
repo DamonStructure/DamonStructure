@@ -5,7 +5,7 @@ I'm an IT and cybersecurity professional with experience supporting healthcare a
 
 I enjoy learning new technical concepts, solving problems, and improving workflows. My goal is to do meaningful work with hardworking teams where people support each other, grow together, and take pride in what they do. 
 
-## 📚 Certifications
+## Certifications
 
 - CompTIA Security+
 - CompTIA CySA+
@@ -13,9 +13,9 @@ I enjoy learning new technical concepts, solving problems, and improving workflo
 - CWNP Certified Wireless Specialist
 - ISC2 SSCP (In Progress)
 ---
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔍 Project Name
+### Project Name
 Short description of what you built, what problem it solves, and what technologies you used.
 
 **Tech:** Python | PowerShell | Security Tools
