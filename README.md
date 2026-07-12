@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, Thank you for checking me out!👋
 
-<!--
-**DamonStructure/DamonStructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an IT and cybersecurity professional with experience supporting healthcare and banking environments.
 
-Here are some ideas to get you started:
+I enjoy learning new technical concepts, solving problems, and improving workflows. My goal is to do meaningful work with hardworking teams where people support each other, grow together, and take pride in what they do. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certifications
+
+- CompTIA Security+
+- CompTIA CySA+
+- Microsoft SC-900
+- CWNP Certified Wireless Specialist
+- ISC2 SSCP (In Progress)
+---
+## 📂 Featured Projects
+
+### 🔍 Project Name
+Short description of what you built, what problem it solves, and what technologies you used.
+
+**Tech:** Python | PowerShell | Security Tools
